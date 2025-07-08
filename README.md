@@ -1,1 +1,2 @@
-# Smart-Parking-Management-System
+#smartparkingmanagementsystem
+This is my first Git Repository.
